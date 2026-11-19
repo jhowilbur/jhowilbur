@@ -12,7 +12,7 @@ More than ten years of building software, from São Paulo to Ottawa, in English,
 | **Translaty** | Real-time speech translation that runs entirely on the phone, offline. [On Google Play](https://play.google.com/store/apps/details?id=ca.webix.translaty). 2.6× faster than real time with three languages, on a 2017 phone. |
 | **[aia-prefill-canada](https://github.com/jhowilbur/aia-prefill-canada)** | All 39 published Algorithmic Impact Assessments from Canada's federal government in one place, with a checker that matches the official risk level in 31 of the 32 it can read. |
 | **[supertonic-3-mobile](https://huggingface.co/WilburDev/supertonic-3-mobile)** | An open text-to-speech model reworked to speak more than twice as fast on a phone. |
-| **PigAI** | An expense tracker with an AI agent that runs on the phone: type "spent 12.40 on lunch" and it's logged. |
+| **PigAI** | An expense tracker with an AI agent that runs on the phone: type "spent 12.40 on lunch" and it's logged. [On Google Play](https://play.google.com/store/apps/details?id=com.wilbur.pigai). |
 | **[aqlm-go-llm](https://github.com/jhowilbur/aqlm-go-llm)** | Runs Meta's Llama language model, squeezed to a fraction of its size, in plain Go code. |
 | **[gamelogs-audit](https://github.com/jhowilbur/gamelogs-audit)** | Checks the public video-game data of CNeuroMod, a brain-imaging project at the Université de Montréal. I found duplicate replay files and reported them. |
 
