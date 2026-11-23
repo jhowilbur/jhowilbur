@@ -2,7 +2,7 @@
 
 Software engineer in Ottawa. I build software people can rely on: AI agents draft the code, models run right on the phone, and tests decide what goes live.
 
-More than ten years of building software, from São Paulo to Ottawa, in English, French and Portuguese. Today I build reports and machine-learning models on the IT Operations team at the House of Commons of Canada.
+More than ten years of building software, from São Paulo to Ottawa, in English, French and Portuguese. Today I build the team's data platform, from pipelines and the data warehouse to reports and machine-learning models, on the IT Operations team at the House of Commons of Canada.
 
 **The long way here, in one page →** [jhowilbur.github.io](https://jhowilbur.github.io)
 
